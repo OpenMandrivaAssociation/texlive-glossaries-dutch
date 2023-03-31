@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-dutch
 Version:	35685
-Release:	1
+Release:	2
 Summary:	Dutch language module for glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-dutch
