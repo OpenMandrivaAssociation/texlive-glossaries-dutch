@@ -3,7 +3,7 @@ Version:	35685
 Release:	2
 Summary:	Dutch language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-dutch
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-dutch
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-dutch.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-dutch.doc.r%{version}.tar.xz
